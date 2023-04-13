@@ -13,7 +13,7 @@ name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://lingyu2001.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "lingyu2001/lingyu2001.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lingyu LI 李玲玉"
+  name             : "Lingyu Li"
   avatar           : "profile.png"
-  bio              : "UC,Berkeley\n USC"
+  bio              : "Great is better than terrible and terrible is better than mediocrity."
   location         : "Berkeley,CA"
   email            : "lingyu@usc.edu"
   github           : "lingyu2001"
