@@ -65,7 +65,8 @@ Work experience
 
 Honors and Awards
 ======
-- Xu Wu Fellowship, Hainan University (Top 1%) 2022 3rd Award,15th China Undergraduate(2022) Computer Design Contest –Big Data Development Theme (2022)
+- Xu Wu Fellowship, Hainan University (Top 1%) 2022 3rd Award,15th China Undergraduate(2022) 
+- Computer Design Contest –Big Data Development Theme (2022)
 - 1st Award,7th China Collegiate Computing Contest -Group Programming Ladder Tournament, Hainan Province (2022)
 - 3rd Award,12th China Undergraduate Service Outsourcing Creative Start-up Competition, East Regional (2021) 
 - Premier Scholarship, Hainan University (Top 2%) (2021)
