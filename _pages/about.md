@@ -10,7 +10,7 @@ I'm a first year graduate student from [USC Viterbi School of Engineering](https
 
 I was advised by [Prof. Deshun Li] from [School of Computer Science](https://hd.hainanu.edu.cn/cs/), Hainan University.
 
-You can find my CV here: [Lingyu's Curriculum Vitae](../assets/CV_Jan_3.pdf).
+You can find my CV here: [Lingyu's Curriculum Vitae](../assets/CV.pdf).
 
 <!-- A data-driven personal website
 ======
