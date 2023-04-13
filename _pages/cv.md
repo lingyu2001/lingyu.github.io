@@ -15,10 +15,9 @@ Education
 * Visiting student in University of California, Berkeley, 2022-2023
 * M.S. in University of Southern California, 2023-2024 (Expected)
 
-Papers & Patents
+Publications
 ======
 * Li, DS., **Li, LY.**, Li, KY., Yang, QL., Yao, JY., Tan, YY., (2022). MSIP:Study on multi-source infection pattern mining algorithm in four-dimensional spacetime. The 19th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2022). (Accepted)
-* Zhang, JY., Ding, Y., Liu, J., Li, J., Li, PR., Lu, TS., Li YW., Yang, LY., Zhao, XQ., **Li, LY.**, (2021). P.R.C. Patent No.CN112665927A. Beijing: China National Intellectual Property Administration
 
 Research & Projects
 =======
