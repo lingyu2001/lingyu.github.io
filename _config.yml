@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Lingyu Li"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -84,8 +84,8 @@ author:
   avatar           : "profile.png"
   bio              : "UC,Berkeley\n USC"
   location         : "Berkeley,CA"
-  github           : "lingyu2001"
   email            : "lingyu@usc.edu"
+  github           : "lingyu2001"
   linkedin         : "ashley-lingyu-li"
   instagram        : "ashley_llyli"
 
