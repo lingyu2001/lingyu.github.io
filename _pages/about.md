@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a first year graduate student from [USC Viterbi School of Engineering](https://viterbischool.usc.edu/), [University of Southern California](https://www.usc.edu/) research interest includes Software Engineering, Machine Learning, Data Science, Artificial Intelligence.
+I'm a first year graduate student from [USC Viterbi School of Engineering](https://viterbischool.usc.edu/), [University of Southern California](https://www.usc.edu/), research interest includes Software Engineering, Machine Learning, Data Science, Artificial Intelligence.
 
 I was advised by [Prof. Deshun Li] from [School of Computer Science](https://hd.hainanu.edu.cn/cs/), Hainan University.
 
