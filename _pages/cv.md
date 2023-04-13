@@ -17,18 +17,36 @@ Education
 
 Publications
 ======
-* Li, DS., **Li, LY.**, Li, KY., Yang, QL., Yao, JY., Tan, YY., (2022). MSIP:Study on multi-source infection pattern mining algorithm in four-dimensional spacetime. The 19th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2022). (Accepted)
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+<!-- Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Service and leadership
+======
+* Currently signed in to 43 different slack teams -->
 
 Research & Projects
 =======
-* **Jan 2022 - Nov 2022: MSIP: Study on multi-source infection pattern mining algorithm in 4D spacetime**
+* ** MSIP: Study on multi-source infection pattern mining algorithm in 4D spacetime (Jan 2022 - Nov 2022)**
   * Modeled the problem of the mining of dynamic multi-source infection events in real four-dimensional space- time as the multi-source infection pattern (MSIP) model, which considered multi-source infection, movement trajectory, and spatio-temporal dimension at the same time.
   * Proposed infection pattern mining algorithm based on opportunity (MABO) under the MSIP model.
   * Conducted experiments on a real-life dataset and demonstrated the effectiveness of the proposed algorithm; experiment results proved the proposed algorithm successfully mined possible infection events and accurately imitated the real environment.
   * Optimized the algorithm with sliding window.
   * Visualized the result of spacetime infection pattern with Echarts.
 
-* **Dec 2021 - Jan 2022: Real-Time Processing, Analysis and Visualization of Big Data from Blog Search Engine Based on Storm and Kafka Frames**
+* ** Real-Time Processing, Analysis and Visualization of Big Data from Blog Search Engine Based on Storm and Kafka Frames (Dec 2021 - Jan 2022)**
   * Developed basic search engine with Spring Boot, Lucene, and WebMagic to provide key functions of keyword searching; deployed front-end site to Tomcat and Nginx.
   * Built a dataset with 50K+ data points; individual contributions include: Data crawling, pre-processing, and cleaning.
   * Used Kafka and Storm for real-time data analysis and persisted the results to MySQL database.
@@ -36,7 +54,7 @@ Research & Projects
 
 Work experience
 ======
-* **Feb 2021 - Mar 2021: Internship of Data Analysis in Big Data Department in Digital Hainan**
+** Internship of Data Analysis in Big Data Department in Digital Hainan (Feb 2021 - Mar 2021)**
   * Acquired theoretical and practical knowledge about Alibaba Cloud platform, data collection, cleaning, modeling, storage, visualization, data tagging and user profiling.
   * Mined user behaviors, preferences, and basic information to produce user tags to support business scenarios.
   * Used SQL for data analysis and processing.
