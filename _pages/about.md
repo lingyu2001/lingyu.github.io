@@ -6,9 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a first year graduate student from [USC Viterbi School of Engineering](https://viterbischool.usc.edu/), [University of Southern California](https://www.usc.edu/), research interest includes Software Engineering, Machine Learning, Data Science, Artificial Intelligence.
-
-I was advised by [Prof. Deshun Li] from [School of Computer Science](https://hd.hainanu.edu.cn/cs/), Hainan University.
+I'm a first year graduate student from [USC Viterbi School of Engineering](https://viterbischool.usc.edu/), [University of Southern California](https://www.usc.edu/), I am interested in Web developing, affective computing, positive psychology, personality psychology and cycling.
 
 You can find my CV here: [Lingyu's Curriculum Vitae](../assets/CV_current.pdf).
 
